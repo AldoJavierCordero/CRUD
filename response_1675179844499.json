@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "Name": "Aldo",
+    "LastName": "Cordero",
+    "Age": 22,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 2,
+    "Name": "Brithany",
+    "LastName": "Rojas",
+    "Age": 38,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 3,
+    "Name": "Laina",
+    "LastName": "Heikkinen",
+    "Age": 26,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 4,
+    "Name": "Diego",
+    "LastName": "Tepoz",
+    "Age": 35,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 5,
+    "Name": "Diego ",
+    "LastName": "Tepox",
+    "Age": 34,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 6,
+    "Name": "Osvaldo",
+    "LastName": "Mendez",
+    "Age": 54,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 7,
+    "Name": "Oscar",
+    "LastName": "Cordero",
+    "Age": 54,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 8,
+    "Name": "Angelica",
+    "LastName": "Cordero",
+    "Age": 20,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 9,
+    "Name": "Johan",
+    "LastName": "Andersson",
+    "Age": 39,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 10,
+    "Name": "Omar",
+    "LastName": "Cordero",
+    "Age": 14,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 21,
+    "Name": "Jamila",
+    "LastName": "Nicola",
+    "Age": 40,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 22,
+    "Name": "Theodor",
+    "LastName": "Kraeff",
+    "Age": 43,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 23,
+    "Name": "Denis",
+    "LastName": "Lennon",
+    "Age": 45,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 24,
+    "Name": "Richard",
+    "LastName": "Cater",
+    "Age": 36,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 25,
+    "Name": "Emily",
+    "LastName": "Rugg",
+    "Age": 57,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 26,
+    "Name": "Agatha",
+    "LastName": "Glyn",
+    "Age": 33,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 27,
+    "Name": "Jesus",
+    "LastName": "Veracruz",
+    "Age": 33,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 28,
+    "Name": "Jesus",
+    "LastName": "Veracruz",
+    "Age": 33,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 29,
+    "Name": "Jesus",
+    "LastName": "Veracruz",
+    "Age": 33,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 35,
+    "Name": "Khaty",
+    "LastName": "Huitzil",
+    "Age": 20,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 36,
+    "Name": "Jesus Omar",
+    "LastName": "Cordero",
+    "Age": 8,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 37,
+    "Name": "Eidan",
+    "LastName": "Cordero",
+    "Age": 6,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 38,
+    "Name": "Ali Belen",
+    "LastName": "Cordero",
+    "Age": 0,
+    "Sex": "famale",
+    "Survived": 0
+  }
+]
